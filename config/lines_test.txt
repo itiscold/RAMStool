@@ -1,0 +1,5 @@
+﻿id	name	station_id	load	train_type	line_color		train_number	min_depart_interval(min)	max_depart_interval(min)	single_time
+1	重庆轨道交通1号线	1;2;3;4;5	1440	subwayB	brown	20	2	60	53	4
+2	重庆轨道交通2号线	1;6;3	1320	mono	lime	15	2	60	42	3
+3	重庆轨道交通3号线	3;7;8;9	1320	mono	royalBlue	10	2.5	60	30	2.5
+4	重庆轨道交通4号线	8;4;10	2322	subwayAs	skyBlue	12	3	60	60	8

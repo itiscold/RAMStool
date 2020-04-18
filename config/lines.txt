@@ -1,0 +1,10 @@
+﻿id	name	station_id	load	train_type	line_color		train_number	min_depart_interval(min)	max_depart_interval(min)	single_time	depart_time
+1	成渝客专	1;2;3;4;5;6	1328	train_CRH380D	gold	32	20	20	100	20
+2	重庆轨道交通1号线	7;8;9;10;11;12;13;14	1440	subway_B	brown	36	2	8	56	4
+3	重庆轨道交通2号线	15;16;11;17;18;19;13	880	mono	lime	49	2	10	57	3		
+4	重庆轨道交通3号线	15;20;21;12;18;22;6;23;24	1320	mono	royalBlue	84	2	5	98	2.5
+5	重庆轨道交通5号线	25;26;27	2322	subway_As	skyBlue	11	2	10	24	8
+6	重庆轨道交通6号线	28;26;22;29;14;30	1440	subway_As	black	50	2	10	75	3.5
+7	重庆轨道交通10号线	31;32;24;33;6;29;34	2322	subway_As	violet	20	2	10	51	8
+8	重庆轨道交通环线	35;9;36;26;6;37;21;38	2322	subway_As	orange	26	2	10	52	6
+9	渝万郊区铁路	39;40;41;42;43;6	623	city_CRH2A	red	15	50	50	80	50		
